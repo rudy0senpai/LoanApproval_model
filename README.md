@@ -81,7 +81,7 @@ The notebook also displays a classification report and confusion matrix for the 
 
 ```bash
 git clone https://github.com/rudy0senpai/LoanApproval_model.git
-cd <repository-directory>
+cd LoanApproval_model
 ```
 
 If you downloaded the project as a ZIP, extract it and open a terminal in the project directory.
